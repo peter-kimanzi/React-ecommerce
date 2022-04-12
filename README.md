@@ -1,8 +1,5 @@
 
 
-# Description
-
-    Build React Ecommerce Web Shop with SASS
 
 # Resource
 
