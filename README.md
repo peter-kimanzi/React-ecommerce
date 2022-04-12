@@ -4,6 +4,8 @@
 This is an online clothe store I made using react
 
 # Technologies used
+* HTML 
+
 
 
 # Preview
