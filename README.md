@@ -7,14 +7,6 @@ This is an online clothe store I made using react
 * SASS
 * REACT
 
-# React-ecommerce
-
-This is an online clothe store I made using react
-
-# Technologies used
-* HTML 
-* SASS
-* REACT
 
 
 
